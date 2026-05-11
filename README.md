@@ -38,4 +38,4 @@ main.pde を開いて実行
 
 
 ## スクリーンショット
-![game]()
+![game](https://github.com/suzu-portfolio/processing-slime-game/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-07-25%20195658.png)
