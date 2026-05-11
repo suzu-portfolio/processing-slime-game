@@ -37,5 +37,14 @@ main.pde を開いて実行
 ・効果音や演出の追加
 
 
+## ファイル構成
+- Base.pde：ゲーム全体のメイン処理
+- CollisionUtiil.pde：当たり判定の処理
+- Enemy_Slime.pde：敵スライムの生成および挙動管理
+- Player_Slime.pde：プレイヤーおよび味方スライムの挙動管理
+- SpawnTask.pde：味方スライムをランダムな色で生成する処理
+- data/：画像や音声データ
+
+
 ## スクリーンショット
 ![game](https://github.com/suzu-portfolio/processing-slime-game/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-07-25%20195658.png)
